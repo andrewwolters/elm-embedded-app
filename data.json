@@ -1,0 +1,32 @@
+{
+  "team": [
+    {
+      "id": "1",
+      "name": "Brian"
+    },
+    {
+      "id": "2",
+      "name": "Patrick"
+    },
+    {
+      "id": "3",
+      "name": "René"
+    },
+    {
+      "id": "4",
+      "name": "Andrew"
+    },
+    {
+      "id": "5",
+      "name": "Corné"
+    },
+    {
+      "id": "6",
+      "name": "Niels"
+    },
+    {
+      "id": "7",
+      "name": "Rob"
+    }
+  ]
+}
